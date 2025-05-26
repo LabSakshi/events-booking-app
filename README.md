@@ -4,6 +4,14 @@ A backend GraphQL API built with Node.js, Express, MongoDB, and Mongoose that al
 
 ---
 
+Install all dependencies
+
+npm install
+Run the server
+
+npm start
+
+
 ## 🚀 Tech Stack
 
 | Tech / Package      | Purpose                                                    |
